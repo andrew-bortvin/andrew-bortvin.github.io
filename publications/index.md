@@ -21,7 +21,7 @@ Structural variants are large genomic rearrangements (insertions, deletions, etc
 
 As part of this project, I was involved in validating the SV in the immunoglobulin locus. I used a uniquely-mapping sequence to rapidly search genomic datasets for the SV, identifying the frequency of this sequence across populations. Likewise, I applied this method to genomic data from archaic hominins to support introgression of this SV into the modern human genome from Neanderthals.
 
-Our work has been published in [elife](https://elifesciences.org/articles/67615).
+Our work has been [published in elife](https://elifesciences.org/articles/67615).
 
 ## Gimelbrant Lab 
 
