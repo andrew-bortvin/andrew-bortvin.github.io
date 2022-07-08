@@ -13,7 +13,7 @@ If an individual has two different alleles of a gene, we expect that both allele
 
 As a part of the rhapsodi project, I conducted studies benchmarking rhapsodi against Hapi, a previous tool used for analysis of single-sperm DNA sequenced data. My work demonstrates that rhapsodi is able to generate much more complete reconstructions of parental and sperm genomes with no cost to accuracy, and that rhapsodi is able to work with much larger input sizes than other tools. To determine the extent to which rhapsodi is able to detect TD, I developed a simulation that generates sperm data with known amounts of TD. This simulation was used to benchmark rhapsodi's power in detecting TD. 
 
-The manuscript describing rhapsodi and its application to TD is available as a [preprint]([https://github.com/mccoy-lab/rhapsodi](https://www.biorxiv.org/content/10.1101/2021.11.19.469261v2) and is currently under review. I have also presented a poster describing this work at the 2022 Johns Hopkins Workshop on Chromatin, Chromosomes, and Epigenomes. This poster can be viewed [here](https://github.com/andrew-bortvin/andrew-bortvin.github.io/blob/main/poster_final_resize.pdf).
+The manuscript describing rhapsodi and its application to TD is available as a [preprint]((https://www.biorxiv.org/content/10.1101/2021.11.19.469261v2) and is currently under review. I have also presented a poster describing this work at the 2022 Johns Hopkins Workshop on Chromatin, Chromosomes, and Epigenomes. This poster can be viewed [here](https://github.com/andrew-bortvin/andrew-bortvin.github.io/blob/main/poster_final_resize.pdf).
 
 ## Gimelbrant Lab 
 
