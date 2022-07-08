@@ -5,7 +5,7 @@ title: Publications and Posters
 
 ## McCoy Lab 
 
-### Rhapsodi 
+### rhapsodi 
 
 Modern sequencing methods allow for DNA sequencing of thousands of individual sperm cells from a donor (link to Bell et al). This gives scientists a powerful toolkit to study how genetic information is passed down across generations. However, individual cells are sequenced at low coverages (~0.01x), meaning that most of the DNA sequence of each cell is missing. Before sperm data can be analyzed, this missing data needs to be inferred. Our lab has developed [rhapsodi](https://github.com/mccoy-lab/rhapsodi), an R package that uses sperm genotypes to infer the phased genome of the donor and from this reconstructs the full genomes of each individual sperm cell and identifies all recombination sites in each cell.
 
