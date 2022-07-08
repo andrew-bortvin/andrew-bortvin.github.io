@@ -21,4 +21,4 @@ In the Gimelbrant lab, I studied the mechanisms of random autosomal monoallelic 
 
 Our screen identified a candidate drug that can reactivate a genes with monoallelic silencing. I worked to validate this candidate drug and to investigate the biological pathways that it acts upon. I conducted drug treatments in cultured cells and used RNA quantification methods to identify reactivation of silenced target genes. To characterize molecular targets, I used shRNA infection knockdowns to perturb putative drug targets and demonstrate that their perturbation is sufficient to reactivate silenced alleles. 
 
-Our work has been [published](https://academic.oup.com/g3journal/article/12/2/jkab428/6472352?login=true).
+Our work has been [published in G3](https://academic.oup.com/g3journal/article/12/2/jkab428/6472352?login=true).
