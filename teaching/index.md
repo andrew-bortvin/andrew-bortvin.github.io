@@ -2,18 +2,9 @@
 layout: post
 title: Teaching
 ---
-* Teaching Assistant, **Developmental Genetics Lab**, Fall 2021, Spring 2022
+
+	I am a teaching assistant for the CMDB program's one-week **[Quantitative Biology Bootcamp](http://bxlab.github.io/cmdb-bootcamp/)** and am a tutor for its **[Quantitative Biology Lab](http://bxlab.github.io/cmdb-lab/)**. This sequence of courses is taken by all first-year students in the program, most of whom have no coding experience. Students learn Python and bash programming by performing analysis of published biological data, and implement methods such as sequence alignment, bulk and single-cell RNA-seq analysis, and GWAS. As a TA, I led group live coding sessions, worked with students individually to debug code, and developed course materials to convert a traditionally in-person course to a hybrid format for teaching during the pandemic.  
 	
-	The Developmental Genetics Lab prepares undergraduate students to conduct independent research through participation in a semester-longer research project. Students learn experimental methods by using CRISPR-Cas9 to edit the *C. elegans* genome. Students also learn about the application of programming to biology research by developing a Python program that identifies CRISPR editing target sites and generates crRNA and repair template sequences. As a TA, I taught students experimental techniques, led lectures teaching Python programming, and was responsible for proctoring and grading.
+	In the 2021-2022 academic year, I was a Teaching Assistant for the undergraduate-level **Developmental Genetics Lab**. This course prepares undergraduate students to conduct independent research through participation in a semester-long project that combines computational and experimental methods. Student develop algorithms to parse genomic sequence data and identify potential CRISPR editing targets. Then, they use identified sequences to generate a CRISPR edited *C. elegans* strain. As a TA, I taught students fundamental molecular biology wet lab techniques and led lectures teaching Python programming.
 
-* Tutor, **Quantitative Biology Lab**, Johns Hopkins University, Fall 2021
-
-	Lorem ipsum est 
-
-* Teaching Assistant, **Quantitative Biology Bootcamp**, Summer 2021
-
-	Lorem ipsum est 
-
-* **Training through the Johns Hopkins Teaching Academy**, Summer 2022
-
-	I have participated in teaching institute training through the Teaching Academy.
+	In the summer of 2022, I have participated in teaching institute training through the [Teaching Academy](https://ctei.jhu.edu/teaching-academy).
