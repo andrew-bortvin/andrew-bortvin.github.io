@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publications and Posters
+title: Research
 ---
 
 ## McCoy Lab 
